@@ -36,7 +36,6 @@ export const loadRecipe = async function (id) {
 
     // reading and formatting data
     state.recipe = createRecipeObject(data);
-    console.log(state.recipe);
 
     // adding the bookmark if needed
     if (state.bookmarks.some(bookmark => bookmark.id === id))

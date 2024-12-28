@@ -119,7 +119,7 @@ const controlAddRecipe = async function (newRecipe) {
 };
 
 const controlAddIngredient = function () {
-  console.log('hi');
+  console.log('feature not complete');
 };
 
 const init = function () {
