@@ -11,7 +11,7 @@ import { MODAL_CLOSE_SEC } from './config.js';
 
 // https://forkify-api.herokuapp.com/v2
 
-///////////////////////////////////////
+//////////////////////////////////////
 
 const controlRecipes = async function () {
   try {
